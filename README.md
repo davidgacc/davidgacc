@@ -8,4 +8,4 @@ I'm a software and currently I'm working at Loggi (Unicorn) in São Paulo - Braz
 
 😅 Fun fact: I went to South East Asia in 2016 (Singapore, Thailand, Malaysia and Indonesia). During my trip, I met a lot of people from different countries. I like to know new cultures.
 
-- 📫 How to reach me: david.gacc@gmail.com
+📫 How to reach me: david.gacc@gmail.com
