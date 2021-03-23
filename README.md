@@ -1,6 +1,6 @@
 ### Hi I'm David 👋
 
-I'm a software and currently I'm working at Loggi (Unicorn) in São Paulo - Brazil. I like algorithms, data structures and Machine Learning.
+I'm a Software Engineer and currently I'm working at Loggi (Unicorn company) in financial team. The office is located in São Paulo - Brazil. I like algorithms, data structures and Machine Learning.
 
 🎓 I'm graduated in Computer Engineering at University of Campinas (UNICAMP) - São Paulo, Brazil
 
